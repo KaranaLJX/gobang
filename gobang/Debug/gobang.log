@@ -1,0 +1,3 @@
+﻿  gobang.cpp
+D:\myCode\vscpp\gobang\gobang\gobang.cpp(85,39): warning C4018: “<=”: 有符号/无符号不匹配
+  gobang.vcxproj -> D:\myCode\vscpp\gobang\Debug\gobang.exe
